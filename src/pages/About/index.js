@@ -14,7 +14,7 @@ const About = (props) => {
       </div>
       <div className={styles.aboutTwittler__content}>
         <i className={styles["fas fa-users"]}></i>
-        <p>나만의 Twittler 소개페이지를 꾸며보세요!</p>
+        <p>나만의 Twittler 소개페이지를 꾸며보세요🐦</p>
       </div>
       <Footer />
     </section>
